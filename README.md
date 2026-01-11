@@ -1,54 +1,25 @@
-# simple-blog-platform
+# Simple Blog Platform
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+## 📝 Description
 - Modern and scalable architecture
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: PHP
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/simple-blog-platform.git
-cd simple-blog-platform
-
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Add usage instructions here
-```
-
-## 📁 Project Structure
-
-```
-simple-blog-platform/
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/simple-blog-platform.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd simple-blog-platform
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*

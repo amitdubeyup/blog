@@ -1,6 +1,6 @@
-# blog
+# simple-blog-platform
 
-A blog project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A blog project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/blog.git
-cd blog
+git clone https://github.com/amitdubeyup/simple-blog-platform.git
+cd simple-blog-platform
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-blog/
+simple-blog-platform/
 ├── .env.example
 ├── README.md
 ```
